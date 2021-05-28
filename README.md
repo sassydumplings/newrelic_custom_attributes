@@ -27,5 +27,5 @@ node gapCustomAttr.js -h
 
 **Example:**
 
-  gapCustomAttr.js -k K2AUkrAPR7oXqPVYmvkS0NUzseUabsXXX -a 12345                                     
+  node gapCustomAttr.js -k K2AUkrAPR7oXqPVYmvkS0NUzseUabsXXX -a 12345                                     
 
